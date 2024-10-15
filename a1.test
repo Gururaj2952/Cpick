@@ -2,7 +2,12 @@ first:
 
 second commit
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 branch commit
 =======
 >>>>>>> 3ff5920 (second)
+=======
+
+branch commit
+>>>>>>> c90292e (added)
