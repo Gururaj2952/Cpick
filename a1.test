@@ -1,5 +1,8 @@
 first:
 
 second commit
+<<<<<<< HEAD
 
 branch commit
+=======
+>>>>>>> 3ff5920 (second)
